@@ -4,6 +4,7 @@ A collection of electrical schematic projects created for learning and practicin
 
 Projects:
 - Three-Phase Motor DOL Starter
+- Three-Phase Motor — TWO-DIRECTION
 
 # Purpose
 
